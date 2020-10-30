@@ -8,6 +8,7 @@
 // 5. RD Account - Deposit, Withdraw, Balance
 // 6. Loan Account - Deposit, Withdraw, Balance
 
+/*
 abstract class BankAccount {
     welcomeMessage(): void {
         console.log('Welcome to My Bank');
@@ -58,9 +59,4 @@ currentAccount.welcomeMessage();
 currentAccount.deposit();
 currentAccount.withdrawal();
 currentAccount.balance();
-
-/**
- * we will create saving account and current account from an abstract class BankAccount.
- * We cannot withdraw more than a limit per day from saving account (20000)
- * No limit  to withdraw from current account for current account
- */
+*/
